@@ -18,7 +18,7 @@ def yeah():
 # print(List)
 # print(Comp)
 
-using this method will print the function of Yeah and return none as result 
+# using this method will print the function of Yeah and return none as result 
 print(yeah())
-
+We will rather use the to call the funtion directly
 yeah()
