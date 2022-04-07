@@ -14,4 +14,7 @@ def yeah():
     else:
         print('yeah your choice is the same as mine')
 
+print(Food)
+print(List)
+print(Comp)
 yeah()
