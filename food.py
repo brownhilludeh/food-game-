@@ -20,5 +20,5 @@ def yeah():
 
 # using this method will print the function of Yeah and return none as result 
 print(yeah())
-We will rather use the to call the funtion directly
+# We will rather use the to call the funtion directly
 yeah()
